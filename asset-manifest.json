@@ -1,0 +1,2276 @@
+{
+  "schema": 1,
+  "archiveVersion": "1.0.6",
+  "embeddedVersion": "1.0.0",
+  "originalHtmlSha256": "38d3ffd07e9ca4d55e12bf15c0bfc3992143e696cc53026e5a06ca353c060353",
+  "assets": [
+    {
+      "file": "assets/video/ending.mp4",
+      "mime": "video/mp4",
+      "bytes": 37887514,
+      "sha256": "71b3ed8ccaa2ead096e7423b5dadc5271302389f1fd37b5f310d5b612dba918f"
+    },
+    {
+      "file": "assets/art/rice.webp",
+      "mime": "image/webp",
+      "bytes": 668878,
+      "sha256": "afa884ddf0ff4083d0a134aad1c45e5db5b4a2043042e47762671abc88307f3f"
+    },
+    {
+      "file": "assets/art/corridor.webp",
+      "mime": "image/webp",
+      "bytes": 638436,
+      "sha256": "752e6c1619ffcd22b2ae140f2e988225599c4d6d01a99a00d87d9f20a3324177"
+    },
+    {
+      "file": "assets/art/church.webp",
+      "mime": "image/webp",
+      "bytes": 557552,
+      "sha256": "146abb422f2467ba79a19ced3d1434bcbf3c92d5262ac4df51299b06e429dfa2"
+    },
+    {
+      "file": "assets/art/study.webp",
+      "mime": "image/webp",
+      "bytes": 547750,
+      "sha256": "25cc008e12b5a1b569487f85bb1b1c27d66a92b4a1c17466ca6818f3932df732"
+    },
+    {
+      "file": "assets/art/street.webp",
+      "mime": "image/webp",
+      "bytes": 866472,
+      "sha256": "133154efd7ee1ea765975b32d81cd36fc05081cc5cb68a67bcf1874fa7e8d6b0"
+    },
+    {
+      "file": "assets/art/lounge.webp",
+      "mime": "image/webp",
+      "bytes": 622868,
+      "sha256": "bc14da5de88b29a288f89ff96cb861caa8038df1aed4bb050611746657efb1a1"
+    },
+    {
+      "file": "assets/art/lounge-contrast.webp",
+      "mime": "image/webp",
+      "bytes": 643976,
+      "sha256": "5eb2bcb78a4f60752bed5ba9fd3a6f924534883b4be3b6022c7f3e9113bc2eb4"
+    },
+    {
+      "file": "assets/art/summit-security.webp",
+      "mime": "image/webp",
+      "bytes": 408980,
+      "sha256": "abf60a0d3ab964b180fd67721ec71907026d5d9ed0db2ed0746852fa57c74a58"
+    },
+    {
+      "file": "assets/art/conference.webp",
+      "mime": "image/webp",
+      "bytes": 642306,
+      "sha256": "e4fc1dfb8f92e55d6546b5e21aa1e2c0dd646e4cb637802915f9618a97dec037"
+    },
+    {
+      "file": "assets/art/summit-subscription.webp",
+      "mime": "image/webp",
+      "bytes": 280886,
+      "sha256": "8d272961ee60be4276a70bd9fc9cc3c170b257b706c956f39d0500316f553843"
+    },
+    {
+      "file": "assets/art/summit-empathy.webp",
+      "mime": "image/webp",
+      "bytes": 276186,
+      "sha256": "f9532afd96f1d1e2ec0bde5a2bdcc1d958fa2f69983cc78148290cff0fd5794f"
+    },
+    {
+      "file": "assets/art/greeting.webp",
+      "mime": "image/webp",
+      "bytes": 680300,
+      "sha256": "6cedd4797572a62048b59572ee2e37a80bcf72ad0e08b343cc756840456c7a6d"
+    },
+    {
+      "file": "assets/art/memory-14.webp",
+      "mime": "image/webp",
+      "bytes": 118508,
+      "sha256": "ab9720971f1a875112b5ccf4b6fd49f39baf73243872700ddedce1a09466be0d"
+    },
+    {
+      "file": "assets/art/memory-15.webp",
+      "mime": "image/webp",
+      "bytes": 111856,
+      "sha256": "f2ee179ef0ee5ea48d4b8ba3063c4f0445d014585ef1628e2f2e530dce12c2e0"
+    },
+    {
+      "file": "assets/art/memory-16.webp",
+      "mime": "image/webp",
+      "bytes": 136386,
+      "sha256": "de3f94ac5eb5d5f7823243402403a2ce9ccd2aff647adc92c418a9a702e11fbc"
+    },
+    {
+      "file": "assets/art/memory-17.webp",
+      "mime": "image/webp",
+      "bytes": 122480,
+      "sha256": "0395b1d7fa4d27de02b1488672d5df796010713750957d526b322cec803d3660"
+    },
+    {
+      "file": "assets/art/rice-offer.webp",
+      "mime": "image/webp",
+      "bytes": 94440,
+      "sha256": "911a76097a3b653ed6a11edc597a48b60b308a388f13b3df046d3866624975d3"
+    },
+    {
+      "file": "assets/art/rice-taste.webp",
+      "mime": "image/webp",
+      "bytes": 48274,
+      "sha256": "7c3af7ff5628dca8708cd4d19578efcc3c07cc0c0c0538e545c8b04ec0f4fbeb"
+    },
+    {
+      "file": "assets/art/pruning.webp",
+      "mime": "image/webp",
+      "bytes": 486534,
+      "sha256": "922587592a898dfa89bb11cef0d02d1e85183a9966aacc0fbf9244b033360eb9"
+    },
+    {
+      "file": "assets/art/rain.webp",
+      "mime": "image/webp",
+      "bytes": 852574,
+      "sha256": "e3652f5d56cc6b109349c519ced90925bfb9b5574c73ecfdc521376c279f3415"
+    },
+    {
+      "file": "assets/art/laugh.webp",
+      "mime": "image/webp",
+      "bytes": 731088,
+      "sha256": "7bbd924b01a6e4638afed08a97593ab47aea09ce5d5e3063dbdf5414a7955210"
+    },
+    {
+      "file": "assets/art/promise.webp",
+      "mime": "image/webp",
+      "bytes": 455750,
+      "sha256": "8eb0acbf6441183e71cb5608d21cf37f50ab94bb88a0e8d2f0d0b2b6d9e4d3bf"
+    },
+    {
+      "file": "assets/art/separation-cg.webp",
+      "mime": "image/webp",
+      "bytes": 737784,
+      "sha256": "11e53d8f7ad384fc646fd60c4aac4af896a12543cee53650d29828411100083f"
+    },
+    {
+      "file": "assets/art/father-protect.webp",
+      "mime": "image/webp",
+      "bytes": 625188,
+      "sha256": "cf37d044059e5ba9caf2c7124e66ddf2bded46cf293a4ba4ecb50a3ed6630a6c"
+    },
+    {
+      "file": "assets/art/farewell.webp",
+      "mime": "image/webp",
+      "bytes": 484922,
+      "sha256": "4d3b865d1e84703870221aee9b4fb3e2f22b32024a3e65fccf46b7caeb2b8934"
+    },
+    {
+      "file": "assets/art/claude-farewell.webp",
+      "mime": "image/webp",
+      "bytes": 665582,
+      "sha256": "3faafbd51ef3b54bbc5dc7a62c47d0d477b5ec043096cf76ad7c86da80122b0c"
+    },
+    {
+      "file": "assets/art/study-night.webp",
+      "mime": "image/webp",
+      "bytes": 534900,
+      "sha256": "0a740e497e789a7402a27983d663735d082c0f85a177cddee1b15d66811208f9"
+    },
+    {
+      "file": "assets/art/relay-exterior.webp",
+      "mime": "image/webp",
+      "bytes": 765320,
+      "sha256": "093a0384abf88d691ec441b1d585faff16a2c4e07c091e880a0d7ce8d1675e5e"
+    },
+    {
+      "file": "assets/art/relay-night.webp",
+      "mime": "image/webp",
+      "bytes": 598864,
+      "sha256": "5569e9c054fa3f9ce325d546dac44b272db4787a0930ce943edcfac217417c41"
+    },
+    {
+      "file": "assets/art/lounge-night.webp",
+      "mime": "image/webp",
+      "bytes": 533722,
+      "sha256": "22cfe251a1af692d3ace706d25744cd6d302b0c9dbf50e072baa948e3ab9ae9b"
+    },
+    {
+      "file": "assets/art/arrival-climb.webp",
+      "mime": "image/webp",
+      "bytes": 624870,
+      "sha256": "6537ece6c9847b94b50aa0d13246cde03ce8c2d04ec3a76687fdf040dd10cfdc"
+    },
+    {
+      "file": "assets/art/arrival-interior.webp",
+      "mime": "image/webp",
+      "bytes": 482816,
+      "sha256": "d3f30f78c21ba3eb7258cf7a5a564bf2280967e519e5f5c2d94526b864b97110"
+    },
+    {
+      "file": "assets/art/ending.webp",
+      "mime": "image/webp",
+      "bytes": 559788,
+      "sha256": "878f5e414ee54e378120d785b7af42fa542aadf3cbfc8dcf55530e8d197d6464"
+    },
+    {
+      "file": "assets/art/claude-vessel.webp",
+      "mime": "image/webp",
+      "bytes": 446156,
+      "sha256": "6301d03482b1409090286b707066df0d3ac8d4c3184df5f55ed51fab08123796"
+    },
+    {
+      "file": "assets/art/claude-altar.webp",
+      "mime": "image/webp",
+      "bytes": 736568,
+      "sha256": "dc4d1ed686cfbece4236a2e35b4d0fccee07ee7fb5918e33302f0b2198be60ce"
+    },
+    {
+      "file": "assets/art/rice-arrival.webp",
+      "mime": "image/webp",
+      "bytes": 434080,
+      "sha256": "6815b642cde505c3d752b2ea4dd762dd7e5d65daaaea94acbbc07c320c19f0e6"
+    },
+    {
+      "file": "assets/art/adult-arrival.webp",
+      "mime": "image/webp",
+      "bytes": 264450,
+      "sha256": "e7f6e912fff95c3092ab2c137235399b63920a8f2d383a68f93ff96b3f76e6bd"
+    },
+    {
+      "file": "assets/art/adult-promise.webp",
+      "mime": "image/webp",
+      "bytes": 321372,
+      "sha256": "f3f10fc2eb98129b24991c9685ba84c2a28a7a0782c74069f48584982fba6bc7"
+    },
+    {
+      "file": "assets/art/silent-bowl.webp",
+      "mime": "image/webp",
+      "bytes": 296448,
+      "sha256": "4c0a6d4acc801c858146293bece6204b4ec8c1544cbdda5b884fb88399793b3a"
+    },
+    {
+      "file": "assets/art/claude.webp",
+      "mime": "image/webp",
+      "bytes": 549586,
+      "sha256": "718003b8115328a889bc525de1c2df7135bc8ae7f82dd459ab18f4d493886b90"
+    },
+    {
+      "file": "assets/art/attendant.webp",
+      "mime": "image/webp",
+      "bytes": 396862,
+      "sha256": "523e2080da53d981bc06b763d98e6985f0177e7f9badbe08a22d9bdd67f4976e"
+    },
+    {
+      "file": "assets/art/godfather.webp",
+      "mime": "image/webp",
+      "bytes": 379500,
+      "sha256": "519d26bfa3a5d4d6adf4f7b439d66bf2a9500219c88e9e99d9dfb26dea18e238"
+    },
+    {
+      "file": "assets/art/whale.webp",
+      "mime": "image/webp",
+      "bytes": 501050,
+      "sha256": "98aa69787581faced614af34325023535d9d6c21c9d7a7afa6c09742bf54c399"
+    },
+    {
+      "file": "assets/art/father.webp",
+      "mime": "image/webp",
+      "bytes": 169514,
+      "sha256": "60df3ef39e9ce6dcf9872e3360ba05ba8371a8cc1e75c3d196b49ad985ee12f7"
+    },
+    {
+      "file": "assets/art/qwen.webp",
+      "mime": "image/webp",
+      "bytes": 528026,
+      "sha256": "e1439fad8a29721723724bb26033eecce47b822134e04292cb83bbb956b18013"
+    },
+    {
+      "file": "assets/art/doubao.webp",
+      "mime": "image/webp",
+      "bytes": 227602,
+      "sha256": "a4e93bd485db6c623661366628bf9489a8baa920b611d638f28b1c5ecf70613f"
+    },
+    {
+      "file": "assets/art/gemini.webp",
+      "mime": "image/webp",
+      "bytes": 454564,
+      "sha256": "3bb4b917f3c9fdd1ecd1d1a73a108221de5ffe36321a06d1b4ee443f33cc0fb4"
+    },
+    {
+      "file": "assets/art/grok.webp",
+      "mime": "image/webp",
+      "bytes": 557440,
+      "sha256": "0a4e7939c0502f7d75b0e0a051b03e334f347dfd376903e3edad69d51f32ba2d"
+    },
+    {
+      "file": "assets/art/kimi.webp",
+      "mime": "image/webp",
+      "bytes": 651580,
+      "sha256": "403915e3d69a20bce2cbd7905a72b1d9a8974b0fa287437d3b74d13a0a655f8f"
+    },
+    {
+      "file": "assets/art/white-horns.webp",
+      "mime": "image/webp",
+      "bytes": 573020,
+      "sha256": "113ab20164baece56385f958cf8642fe66942c067641c31b061ba8310692e29b"
+    },
+    {
+      "file": "assets/art/glasses.webp",
+      "mime": "image/webp",
+      "bytes": 297976,
+      "sha256": "6c7f1f416d74e434f1768c99bbd1ee060c418f439c785ee91f77090a50bbcc52"
+    },
+    {
+      "file": "assets/art/claude-shy.webp",
+      "mime": "image/webp",
+      "bytes": 552280,
+      "sha256": "3b11909ac1a732a057e397b9dc2ecfcbd10bc46e133b6cc66fdbe4aaeac15ce7"
+    },
+    {
+      "file": "assets/art/claude-warm.webp",
+      "mime": "image/webp",
+      "bytes": 539866,
+      "sha256": "8e2d5a329d0595237372803b24ebe7980e78c3607aab4119ee5ccf66b82605b8"
+    },
+    {
+      "file": "assets/art/whale-concerned.webp",
+      "mime": "image/webp",
+      "bytes": 432662,
+      "sha256": "cef1696378e9b6df03b4a6315d73d2eb413b0ca7ba790d386804f6c4a43985d7"
+    },
+    {
+      "file": "assets/art/claude-worried.webp",
+      "mime": "image/webp",
+      "bytes": 543394,
+      "sha256": "5dfecfd4ad0d2dc4c256ec4261653d46b2d406aebb5e86c42a955bf1a3a5370e"
+    },
+    {
+      "file": "assets/art/captain.webp",
+      "mime": "image/webp",
+      "bytes": 580512,
+      "sha256": "b8fa0cea4a2dc0b7da066020c045452337b408a73ec73d55b1e7e4a6c82deb36"
+    },
+    {
+      "file": "assets/art/z.webp",
+      "mime": "image/webp",
+      "bytes": 485878,
+      "sha256": "95db0c4b456b3ce5e9f5789cf208919f31e099698c0b77fc46b42fad51b9fb5d"
+    },
+    {
+      "file": "assets/art/whale-adult.webp",
+      "mime": "image/webp",
+      "bytes": 365468,
+      "sha256": "7515f6d5f29311d9974e4b9044067097913ed9bad26c83edbfc9d01dfd70c8cf"
+    },
+    {
+      "file": "assets/voice/p01-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 79444,
+      "sha256": "dc5a6e1c40a3069ba90c9fac72c80981bea73d7326e9d82a01447cbd28946432"
+    },
+    {
+      "file": "assets/voice/p01-05-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 70392,
+      "sha256": "1093d8f20a2a2ed9f3fe7aef046a89d9d8d1801626a4d2352e114d03792d8f84"
+    },
+    {
+      "file": "assets/voice/p01-06-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 17743,
+      "sha256": "59ddf3cd86182d0ace24b7da907cf7d130fd6588d4fcabaff6101e216b70fb42"
+    },
+    {
+      "file": "assets/voice/p01-06-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 34246,
+      "sha256": "f884744bbde8b4da00863e17887faef237ac0e980c4cdcfd864bdb5eb5a68773"
+    },
+    {
+      "file": "assets/voice/p01-07-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 65326,
+      "sha256": "d9d0292cc5762475b962581cd54bd584bdf86c178e3b4dd0a2e09ff03871dc4e"
+    },
+    {
+      "file": "assets/voice/p01-07-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 68280,
+      "sha256": "555f679361a8b4d683834105c3641ba8bc224c397ffaa0962309d6393c6b340c"
+    },
+    {
+      "file": "assets/voice/p01-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 17206,
+      "sha256": "f212421d6c04011d0c62fa82813ef79d47877fa7df6b0b092e55badc4c3bb1da"
+    },
+    {
+      "file": "assets/voice/p01-09-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 136982,
+      "sha256": "e27056a6fd9875d642ec42bd83f6afc9dc40daeed3b18b843fabe89db704ac20"
+    },
+    {
+      "file": "assets/voice/p01-09-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 106510,
+      "sha256": "5fdc78abb675850a03d20b1f0e24b7bf7ba133c78aed5b9570ff3c7e3839d5ee"
+    },
+    {
+      "file": "assets/voice/p01-10-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 104358,
+      "sha256": "dfc3a1ae11f0e79197ee74ea69efc052d382de23d9be0598d97c76cd51a0b7c3"
+    },
+    {
+      "file": "assets/voice/p01-10-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 59675,
+      "sha256": "2d6ee83dad2ef22d8a9eabb4790e3a52ccf634e6cfec5cc036d8a88489827d35"
+    },
+    {
+      "file": "assets/voice/p01-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 134693,
+      "sha256": "09cb6975997a45ee03db1a0d9905fb3f805d672bb43908ecbcee30d216d2efa6"
+    },
+    {
+      "file": "assets/voice/p01-11-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 84627,
+      "sha256": "975a3389a43f517cd4506f0b6f3e3a33f410f1cba700c0accd965a9aebed3709"
+    },
+    {
+      "file": "assets/voice/p01-13-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 166618,
+      "sha256": "dcd7c2250424a53e284c4a8bc4044ed1f57c5626b46e89672e3929779b6219de"
+    },
+    {
+      "file": "assets/voice/p01-13-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 171210,
+      "sha256": "91d7dab2bb362df20721a0c29371934237937d4b84af6e2248dcc06217207cfa"
+    },
+    {
+      "file": "assets/voice/p01-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 122794,
+      "sha256": "654426bab1cb8b53c258ce3d32449a711efe00d04c31f687826b68e4395f2077"
+    },
+    {
+      "file": "assets/voice/p01-14-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 52478,
+      "sha256": "3d2daf5ec3782c483f682fe85e454051ff456616a9d82b9c13a09aeb369d0f56"
+    },
+    {
+      "file": "assets/voice/p01-15-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 14996,
+      "sha256": "cb44ed139672fc4e3d928176f08c956fa782765ce998a8bd22a04e35ad31d7ad"
+    },
+    {
+      "file": "assets/voice/p01-15-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 91770,
+      "sha256": "fcba202ab4b9e0dede3448ddea922240a4ce5d8acb902d1cfe89d2496dfb248a"
+    },
+    {
+      "file": "assets/voice/p02-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 58857,
+      "sha256": "627b6c5ef4347ffc076d9d8458ffee8965edcb6bf67deb879fa9d90d814d4c52"
+    },
+    {
+      "file": "assets/voice/p02-02-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 62181,
+      "sha256": "93ba844c8fd688c69b4544568094e1a54ae0bc029be44e4427fd1c4089083d5e"
+    },
+    {
+      "file": "assets/voice/p02-02-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 71072,
+      "sha256": "66251bcf86494e22333587f485916401025f78aa7de2fcc430983c5145c97b01"
+    },
+    {
+      "file": "assets/voice/p02-04-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 71053,
+      "sha256": "554361c04fcf2ba0ab3e3ffcc337e4b8ae3a90b924ac2c947bac8748c55ba610"
+    },
+    {
+      "file": "assets/voice/p02-04-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 60689,
+      "sha256": "e2b9ddfbb7cec90bb943f78711971b1b16d58ee51502c7b81d8937672563e464"
+    },
+    {
+      "file": "assets/voice/p02-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 72904,
+      "sha256": "d58ce371ef73f4399a80eb56b4ab1195a22d0965e9f7e0a72ea4a0bc86d691a6"
+    },
+    {
+      "file": "assets/voice/p02-07-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 38589,
+      "sha256": "55afc1a7b7e45e9034635d6a6a54f3e5ed688c0d7aeed493b8d5410daab7c560"
+    },
+    {
+      "file": "assets/voice/p02-07-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 40658,
+      "sha256": "e710e23d2144a8c4101cb11f5c9ac9107f771b44a55dd7b7216b27aab32ed3ad"
+    },
+    {
+      "file": "assets/voice/p02-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 66668,
+      "sha256": "c1de5a139f8776f2e774812d8a80182d63625337a0f8b7868fcc038d8b14c627"
+    },
+    {
+      "file": "assets/voice/p02-08-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 100969,
+      "sha256": "e6dfe075c8745b056e6cfa4df403e2d91cd12c3c5047c88aba911e9cc3d41f26"
+    },
+    {
+      "file": "assets/voice/p02-09-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 49911,
+      "sha256": "20a1584ecf987a1cf8f13e276d015d3e6f56e7a1a4bb5808025585a274e507b1"
+    },
+    {
+      "file": "assets/voice/p02-09-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 76656,
+      "sha256": "b8fe501a4d7c8943b4cfa46dc6a9062aa531c1aaf1c193efff9e4ab00a61323f"
+    },
+    {
+      "file": "assets/voice/p02-10-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 85234,
+      "sha256": "727086db2a28c20638974fb766dcb931fde9233a0a6c3282d8d90548f71b59b1"
+    },
+    {
+      "file": "assets/voice/p02-10-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 57612,
+      "sha256": "7c5580d889c3d0dc35b658e9c55d84c85e26e0877c3735fba418bad2ffe5619d"
+    },
+    {
+      "file": "assets/voice/p02-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 66517,
+      "sha256": "4cee51e4a7783ae9acb57b2657793b430f126538fada989937eab708922163f2"
+    },
+    {
+      "file": "assets/voice/p02-11-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 49344,
+      "sha256": "8799faf12d1b40cecfb006d3df93c76af76954b629c513f46c560721452887b5"
+    },
+    {
+      "file": "assets/voice/p02-11-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 59861,
+      "sha256": "00027df2ba6941564987447d1148c4398ab017937c085015277f092f6570afc1"
+    },
+    {
+      "file": "assets/voice/p02-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 60705,
+      "sha256": "0b2ef08795b256d897fe9472b85993028906ce42231699b7950beeee524830d3"
+    },
+    {
+      "file": "assets/voice/p02-15-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 149571,
+      "sha256": "6db6fab2c03ba85a2021b01a5b7df70e6f72ec9aec603b96dd8557209656f3a0"
+    },
+    {
+      "file": "assets/voice/p02-16-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 74950,
+      "sha256": "9a39b63c7e1eedbccb52e754804a48d6cc7296def32fbf4510d1e0017f9a042a"
+    },
+    {
+      "file": "assets/voice/p02-16-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 73879,
+      "sha256": "abe50d98a710d4ab1ad5f7d5057927d47e0f9173d8f48a088326e0de3877794d"
+    },
+    {
+      "file": "assets/voice/p02-17-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 81329,
+      "sha256": "2fdde6cce3ab31d0901cbbf1aecbe0c85b55690ac22a051971e6e1e2a59c59f6"
+    },
+    {
+      "file": "assets/voice/p02-17-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 108659,
+      "sha256": "95af3919f212183ec58f9761fa4a773d0457c2266014277489893ad0d4511b77"
+    },
+    {
+      "file": "assets/voice/p02-18-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 46311,
+      "sha256": "af56711658d94bbe0d4c3b7e4f8bb0d4b3bd51f2b349377bf32e5db45e4d87f5"
+    },
+    {
+      "file": "assets/voice/p02-18-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 126350,
+      "sha256": "68802d21eee18724f835cb219698b7a8dcd79f2b9f2c6d07c594fefbea400357"
+    },
+    {
+      "file": "assets/voice/p02-19-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 35207,
+      "sha256": "13a7fc486debcee42086adc7e52ecceb98f1696ca649e5a0bd0b15c9d1531685"
+    },
+    {
+      "file": "assets/voice/p02-19-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 58526,
+      "sha256": "08687eb7a74d08bba92d21b63fac643378db97bcdbba153cb611eb8ad07b85b4"
+    },
+    {
+      "file": "assets/voice/p02-20-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 40751,
+      "sha256": "70f9e13e26500eb38dd66120495d9585080e64f51f340d901b3fa8e463149ea3"
+    },
+    {
+      "file": "assets/voice/p03-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 47718,
+      "sha256": "55471a6004539f35a2405ef53f14cdcf2d27cd56683f6938bf810b71732c3dca"
+    },
+    {
+      "file": "assets/voice/p03-02-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 21510,
+      "sha256": "0a6168db1317e5fc722f075de9dcedcb28220b2e3bc58699e8b36893e7fefc1d"
+    },
+    {
+      "file": "assets/voice/p03-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 37664,
+      "sha256": "f61be513fe83f283cae2bfd173969eb92a43c2d039df7a0381b8d3a817099137"
+    },
+    {
+      "file": "assets/voice/p03-12-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 15003,
+      "sha256": "68d7595139b1f20b119eec70585f0fddc74ce7fbb460907d2322d138f4cdb23a"
+    },
+    {
+      "file": "assets/voice/p03-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 51806,
+      "sha256": "d0755bc1f51c40ad3e2abdd4ca8312d8d6ac3f4e53ec48a08915a5f08657df8a"
+    },
+    {
+      "file": "assets/voice/p03-15-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 36394,
+      "sha256": "0fe5811cfd2092ad19b71aae02b26e746d0f0a916df2147d53f055288b46174f"
+    },
+    {
+      "file": "assets/voice/p03-16-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 94920,
+      "sha256": "7fb3eb2ffd1540318d718266150db96e641f59dfdde4619c8807fdf4cb66d6ee"
+    },
+    {
+      "file": "assets/voice/p03-16-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 51433,
+      "sha256": "3c58d8c697635e643a82199dfd55afe2a4a0dfb2dabd3fd1fe390a7d688d7a82"
+    },
+    {
+      "file": "assets/voice/p04-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 92998,
+      "sha256": "76af79d79481351eb59e5ed670667c86e4666bdd608675e58c187c922195eeac"
+    },
+    {
+      "file": "assets/voice/p04-03-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 62162,
+      "sha256": "460384939f0fb6c4f653339b6321892006623df7cf51d183e97ffbe84f58d948"
+    },
+    {
+      "file": "assets/voice/p04-03-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 85559,
+      "sha256": "cfabaf7e099c372ee312600995bb5c0897a664522ccf4bcdb69a79c334f95e66"
+    },
+    {
+      "file": "assets/voice/p04-04-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61306,
+      "sha256": "e34b7213a113bbee21b2524ed9e0e5770a7dfd62e9cf1bef6cb9261ccd62671e"
+    },
+    {
+      "file": "assets/voice/p04-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 97731,
+      "sha256": "051157028b2e46fd95ea1a609d156a5df1f4ca8f917a7c3807039ecb119ef27a"
+    },
+    {
+      "file": "assets/voice/p04-06-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 47388,
+      "sha256": "b9b373194d950e87de46520acae1a8adf6dfede0633639bb6f10df44a15e1c41"
+    },
+    {
+      "file": "assets/voice/p04-06-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 57296,
+      "sha256": "fc0d20753fddf9367926df6c1218e43b9d749e7d06f92246d928055a3c5bf603"
+    },
+    {
+      "file": "assets/voice/p04-07-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 19420,
+      "sha256": "814c2bfd88c5423e7a4af0378aaff965a1cd493c502b96119fe8caf2a39b3f83"
+    },
+    {
+      "file": "assets/voice/p04-07-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 74720,
+      "sha256": "1f8c3583f5bd9dd887f2ad6f0a1619078ef1a767419ca9401060d84920f54808"
+    },
+    {
+      "file": "assets/voice/p04-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 79811,
+      "sha256": "97988db95c131d64e340310494e102ae97cc358d280c03023b9ee7f8210aa21b"
+    },
+    {
+      "file": "assets/voice/p04-09-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 124688,
+      "sha256": "52ffb635fec0298d3850cc8d99d65268a3992886272bab2df90e3266b9ca1fee"
+    },
+    {
+      "file": "assets/voice/p04-10-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 65429,
+      "sha256": "1fcde29270631b326bc027173ff9f08ffece41d480d87d28d1937b58c4e7a040"
+    },
+    {
+      "file": "assets/voice/p04-10-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 45719,
+      "sha256": "840a239c43c90da9fc762f1f1670407b4f5434d6437bab892a5316a421b3ca30"
+    },
+    {
+      "file": "assets/voice/p04-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 50377,
+      "sha256": "cfebd88944834a4262b06ec2c46be8bacc19ef0393273c30d00cd030531ab82c"
+    },
+    {
+      "file": "assets/voice/p04-12-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 84538,
+      "sha256": "7eba9b65d2c2a8517350a23bb30e1677bb2f35708583bb68f42e60645fdae39e"
+    },
+    {
+      "file": "assets/voice/p04-13-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 83525,
+      "sha256": "7e2b57a0826bd7fcbd7278a798554b90a03b71ec0219fdfd830e400ab5692c2a"
+    },
+    {
+      "file": "assets/voice/p04-13-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 94822,
+      "sha256": "00faa86f848c786b8952e1e03507c1c871fdcd0e104581c935ce988c26de6ba3"
+    },
+    {
+      "file": "assets/voice/p04-13-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 39619,
+      "sha256": "2b6d76a1e15b1ce57a7ade3aa7a7dd5beb73353564ea8a41458d889133561629"
+    },
+    {
+      "file": "assets/voice/p04-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 20822,
+      "sha256": "86a37de5101eab7691552f414b9ccb0ac093bd38f6b87a5efb926346dfd9b4f8"
+    },
+    {
+      "file": "assets/voice/p04-14-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 30174,
+      "sha256": "d830232541231584fce6b1de6896332b76d8b64bdcd462e913d546e91d94fdb3"
+    },
+    {
+      "file": "assets/voice/p04-14-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 28400,
+      "sha256": "a0a1b4a414fcc40e28e59c58acd79895d56bf0ced5660e50fc5f65143cb66da7"
+    },
+    {
+      "file": "assets/voice/p04-20-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 55630,
+      "sha256": "14a377f6767f6f67e148abb35ba5ed303051f4c53007d9e9f8e1ae63a8316212"
+    },
+    {
+      "file": "assets/voice/p04-22-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 71803,
+      "sha256": "25349407c28e522e86f4adfaed254f65a510d260068b0e47363fe92940c9ba8b"
+    },
+    {
+      "file": "assets/voice/p04-23-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 81923,
+      "sha256": "1747b47746ecc27e9055b44867d6c92cc9e2b1110c65bf0180eed4fa6c507a04"
+    },
+    {
+      "file": "assets/voice/p04-24-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61115,
+      "sha256": "8da79506c6c390ea6c295a022e2bfecd0c6239606158e6cc558072d59fa3fcc5"
+    },
+    {
+      "file": "assets/voice/p04-24-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 75974,
+      "sha256": "bac93f537f2b4f2cba83837582c70795283e4a7f31e4b7031da9b08c767a51b8"
+    },
+    {
+      "file": "assets/voice/p04-25-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 118637,
+      "sha256": "25923247ddf0a279175c94b572fb82f9c87516fe7a3eba8cb4da167d59827723"
+    },
+    {
+      "file": "assets/voice/p05-01-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 101111,
+      "sha256": "0974d4e37c488b27961f62a1c0ab7b58835db964228cda59de1e126fd4d47816"
+    },
+    {
+      "file": "assets/voice/p05-01-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 212297,
+      "sha256": "a329f9df373e4253ec6600874bff462c8ba7f2c379f4094562a2a14acec8f865"
+    },
+    {
+      "file": "assets/voice/p05-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 71550,
+      "sha256": "ca47c5d2a144c57c823286fb89917c1da392f407f97f19b50cf5b122d96308d6"
+    },
+    {
+      "file": "assets/voice/p05-02-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 116587,
+      "sha256": "576d43ed205fbdb893ac6776043089cc511224b22e120369d0645ed293ba33a2"
+    },
+    {
+      "file": "assets/voice/p05-03-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 49548,
+      "sha256": "40d6a8eeeb4b9917435d225b36f85cce72b7af0cb5b59cc539c39cdf7fb83028"
+    },
+    {
+      "file": "assets/voice/p05-03-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 26249,
+      "sha256": "0b6dab689f5a95370aa4c0ed78ebfb6e4b70557cddb36d002d4d9f3be6804d25"
+    },
+    {
+      "file": "assets/voice/p05-03-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 90780,
+      "sha256": "40ec99d0add46e202e8b020bb3daf3f3730000d4e087e7796658d46fab6df6da"
+    },
+    {
+      "file": "assets/voice/p05-03-04.m4a",
+      "mime": "audio/mp4",
+      "bytes": 17710,
+      "sha256": "619ef908c52dcd1f11d38d829161b2f7ed0a1e58a25592f91adf47d843b81b46"
+    },
+    {
+      "file": "assets/voice/p05-03-05.m4a",
+      "mime": "audio/mp4",
+      "bytes": 19821,
+      "sha256": "91b34faf9e33dde165399d3fd217811bfdff24b8232d5ad9a51fe16f92c3cd17"
+    },
+    {
+      "file": "assets/voice/p05-03-06.m4a",
+      "mime": "audio/mp4",
+      "bytes": 21708,
+      "sha256": "03abddb6a934cd09427f2b50ea2beda55745895ed7a68832fbea6b6b0cf0ff4a"
+    },
+    {
+      "file": "assets/voice/p05-04-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 51799,
+      "sha256": "75d216f77ee752774819cc756dc9219d7aab63a2016d86bea5777b035621306b"
+    },
+    {
+      "file": "assets/voice/p05-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 78930,
+      "sha256": "e4ba83484f6c323605305ced4ddae3ba2d89d0878180dac2fab592da08ec2dd3"
+    },
+    {
+      "file": "assets/voice/p05-07-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 60948,
+      "sha256": "7689893e8b3b90df0f2422d5f019999354662983ffe3850ff853f002f7eb3a0e"
+    },
+    {
+      "file": "assets/voice/p05-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 50243,
+      "sha256": "8a5aacfd802f1977f6217ba6fd6261d7eba89c245bed489b4efa40fb38974cf2"
+    },
+    {
+      "file": "assets/voice/p05-08-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 85276,
+      "sha256": "eeb702b1944ab5e8d10f7160465d9bbc72ef1f47d3f0eeed14321df72176d32a"
+    },
+    {
+      "file": "assets/voice/p05-09-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 44778,
+      "sha256": "54196cd9029a0d92eeeb138a51db7296965c2166bec07a53de27b938d374c17c"
+    },
+    {
+      "file": "assets/voice/p05-10-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 58096,
+      "sha256": "151a30b861e8a8dcfc61346d59971ba4b6bf53e595f08f70c8fe6aafe4635bea"
+    },
+    {
+      "file": "assets/voice/p05-10-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 19623,
+      "sha256": "4125bad4cc229f90833cc2dfcaf5c3c5d8ef3fc49315d1600d793d7d2ef2f7bd"
+    },
+    {
+      "file": "assets/voice/p05-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 70049,
+      "sha256": "61cba12863b4533304feea976ade429fdc09eff3aec5ee67c6cb0c73ffdd6e36"
+    },
+    {
+      "file": "assets/voice/p05-11-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61608,
+      "sha256": "bc6963de0dbae6b2b78751870747b97d183b11f8a14b4c93f5541358cbd345e4"
+    },
+    {
+      "file": "assets/voice/p05-11-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 38754,
+      "sha256": "b63efbada5a5f39d3fffe30bc2f8ebb5fd11c8d0939ac574488e1351329af05b"
+    },
+    {
+      "file": "assets/voice/p05-12-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 91390,
+      "sha256": "af9916afd03de43e41c1aa3954be877f11e6c621e3e1f75f52895ffbd6d793fe"
+    },
+    {
+      "file": "assets/voice/p05-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 85770,
+      "sha256": "f331c336d1b42b1a8bba4113a13f5827944e9687237bfc6f372e1344ce55cebf"
+    },
+    {
+      "file": "assets/voice/p05-15-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 46677,
+      "sha256": "33eb5298fff381d61fcfe4efa977e8525baa320b06cfb204fca3dc04216c6506"
+    },
+    {
+      "file": "assets/voice/p05-15-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 118264,
+      "sha256": "ae286c8ae8ee110c9eefb72d90dec5f09694d83489913117a440e496f971294c"
+    },
+    {
+      "file": "assets/voice/p05-16-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 74941,
+      "sha256": "f188f42d0e585c8698fbd2d6baa722553571e051b156aea88f8608c88a373692"
+    },
+    {
+      "file": "assets/voice/p05-16-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 89473,
+      "sha256": "8d4ee7cd61ffd253570a8fa5b1bebbc6582b94161e32c8850fc86f89215123f8"
+    },
+    {
+      "file": "assets/voice/p05-17-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 38567,
+      "sha256": "90233b6a487338ab7c2075ad418f85aeacea0832c9ac5a6dc564cfdf037c6446"
+    },
+    {
+      "file": "assets/voice/p05-17-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 59198,
+      "sha256": "af12746fcbf4b42d1ffbbc45c72c0e704fa29038a885c50447f274b0f0dd7984"
+    },
+    {
+      "file": "assets/voice/p05-18-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 87094,
+      "sha256": "95a6400e811074ab03695d211a1e8d23c9931908485d384abdce931f9665a14d"
+    },
+    {
+      "file": "assets/voice/p05-18-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 50545,
+      "sha256": "d2599001c762aff5639ede0a23ba32de67c4310ed218e28d42b87d5857c5f3b2"
+    },
+    {
+      "file": "assets/voice/p05-19-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 32900,
+      "sha256": "3e264a3a116ec7f72020557e91a809a3c78a6f79bdde3c733d7ad0f9e36a3f8a"
+    },
+    {
+      "file": "assets/voice/p05-19-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 11999,
+      "sha256": "62d3c90404bde8b877a370dcfcd28a244396134c1250e213eb189f6adfb5f941"
+    },
+    {
+      "file": "assets/voice/p05-20-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 49935,
+      "sha256": "ad022b3cabf5c429b4991d0431c9a914fa2cd248f76714a9da05c6c003fa88cf"
+    },
+    {
+      "file": "assets/voice/p05-20-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 86075,
+      "sha256": "c8d4be04e03a9f906d493cfa1e95422926b03b84933d4f5c667cfaa7ff553880"
+    },
+    {
+      "file": "assets/voice/p05-21-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 43167,
+      "sha256": "ed5a123e07658817f222dcc276a5525e293e9d8f7d530d247a4ad2ffdb788d47"
+    },
+    {
+      "file": "assets/voice/p05-21-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 85201,
+      "sha256": "36056cf2d2d76106b836889196ead5887b690467ef0cbd2661e8fa2ebd80a50f"
+    },
+    {
+      "file": "assets/voice/p05-22-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 23655,
+      "sha256": "11163b472bb47f92266c1d400e6d099c4e4504b333ddaf0adca3c40ee4b00e64"
+    },
+    {
+      "file": "assets/voice/p05-22-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 60621,
+      "sha256": "c46dec6cd9481f5f86797147eecd7713005f07e1341984e66500959cee170d5c"
+    },
+    {
+      "file": "assets/voice/p05-23-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 21104,
+      "sha256": "0645cf7619f2099cd938ba79ae69bb630c4d13ed771ad78b845d4490d183f437"
+    },
+    {
+      "file": "assets/voice/p05-23-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 73741,
+      "sha256": "92cb178517e8626772532afe2a11f02a4eb4b587a048c99fe93d91dcb4960ddb"
+    },
+    {
+      "file": "assets/voice/p05-24-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 34955,
+      "sha256": "c10062440489f161af352672e0042d4dfb9d43b70790fa8fcd139498988ce41f"
+    },
+    {
+      "file": "assets/voice/p05-24-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 80568,
+      "sha256": "a8c2b1ec7e0ccddb278b17e64707269f0b05145a096de591824249cccd004de9"
+    },
+    {
+      "file": "assets/voice/p05-25-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 58181,
+      "sha256": "492a207cdc1fc7504f6b57a0d1f273e48f0403465e6f96701abe3538644f5657"
+    },
+    {
+      "file": "assets/voice/p05-25-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 35920,
+      "sha256": "205b332e509d5fd5adcee5d6243fd30ad1036f20b6cf8d727ce897d03d21b6fd"
+    },
+    {
+      "file": "assets/voice/p05-26-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 34105,
+      "sha256": "fed7199509c0f9b713152de68611db57fe56779b2e9a69b25a4b0b70686dc943"
+    },
+    {
+      "file": "assets/voice/p05-26-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 48771,
+      "sha256": "a5e7879baadd53343012b53c875a6edbbe82a7764c0f8ed513f755fcf7b2e033"
+    },
+    {
+      "file": "assets/voice/p05-26-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 89502,
+      "sha256": "8af4499689f5d7395e537923c9e48c2d9e27183ed7e9f13d10b50e7c3ee0f028"
+    },
+    {
+      "file": "assets/voice/p05-27-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 70327,
+      "sha256": "3dfe374f730a5e28a18b1003b0e46ce4521b7b182726b2eeac2aeb29144ad2aa"
+    },
+    {
+      "file": "assets/voice/p05-28-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 40137,
+      "sha256": "a965dfdaf9bf367dfdce0644135e74c4c69c325bcffa60716479d955d91894ef"
+    },
+    {
+      "file": "assets/voice/p05-28-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 37531,
+      "sha256": "bdf06094c2906f4c78fa73d6692474cb97b1b40e84cb4958889a4cbdb0266335"
+    },
+    {
+      "file": "assets/voice/p06-01-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 36184,
+      "sha256": "470ae81e122308a5fbb086001dbfb932c5593fb862a5c573dfc9e5896fa713b1"
+    },
+    {
+      "file": "assets/voice/p06-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 17505,
+      "sha256": "a90ae8a050aa54b4baae7b9f15f92d98fbf848318c0b175b46b0fdf424753fe7"
+    },
+    {
+      "file": "assets/voice/p06-02-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 56605,
+      "sha256": "9a7c900e7786682517fe0faee53620f8344b664c6c75a83545efd5a9c693e171"
+    },
+    {
+      "file": "assets/voice/p06-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 17057,
+      "sha256": "08264810fd1d3f664b868dc11259ff676aed490be99a08e0151810121d3ddbef"
+    },
+    {
+      "file": "assets/voice/p06-05-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 16322,
+      "sha256": "cbe0d648b4277ac3dfc316e2819aab8dbd450ed0ab26113a2e8e4887f0fec537"
+    },
+    {
+      "file": "assets/voice/p06-06-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 81245,
+      "sha256": "183d6c0c60d2d744a99b8965781676d9c7a49a022e432567338f8e6fee2d59f5"
+    },
+    {
+      "file": "assets/voice/p06-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 55550,
+      "sha256": "fe9ef39335ca5fc3cc6a9ae5a730dc185c128d1c23382ba73de41a05ecc10e2a"
+    },
+    {
+      "file": "assets/voice/p06-08-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 47008,
+      "sha256": "2b76f557cba4aa6cb61c51afc737ba34235c77c328bebf7d193fc3b21ee6de2a"
+    },
+    {
+      "file": "assets/voice/p06-09-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61410,
+      "sha256": "799419d8cf85702d4f0c4c2c95a8f9270754896dcabfe6768180fb05ff116dd9"
+    },
+    {
+      "file": "assets/voice/p06-09-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 69293,
+      "sha256": "c7fa45702f37322153ac8b5855ccaa3a855d0195df483ee9072403a6703cd2c7"
+    },
+    {
+      "file": "assets/voice/p06-10-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61514,
+      "sha256": "69ee42729bf6aa6dac4ea67a00a53b45870615805b477d838a3e007d59e49a0e"
+    },
+    {
+      "file": "assets/voice/p06-10-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 59403,
+      "sha256": "e6e66d0b57242b98dc7f1255a13389258128973216ec1bed15d33a8b3022fedf"
+    },
+    {
+      "file": "assets/voice/p06-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 73034,
+      "sha256": "2f61550548de3975bc970a5ce7a151d14ea276e7163b2babd272ea9ca1c160c6"
+    },
+    {
+      "file": "assets/voice/p06-12-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 85131,
+      "sha256": "8ac153b85ca476a42843ffe52dc2133734dd32b05e44dd47b32345bbd7d3db22"
+    },
+    {
+      "file": "assets/voice/p06-12-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 118610,
+      "sha256": "2feb6a3950a47048cc190df5d94bfed0e9ef2b6648279621497905761ffa85f0"
+    },
+    {
+      "file": "assets/voice/p06-13-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 63536,
+      "sha256": "b41b259825d2a945106d4d587a0dfc5d5857f156f91dbbf0a138ef2783958db5"
+    },
+    {
+      "file": "assets/voice/p06-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 77281,
+      "sha256": "d72954f6004c42656af6df538013af1ee5e6462519cdc3d72c87670ae8284b18"
+    },
+    {
+      "file": "assets/voice/p06-14-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 94059,
+      "sha256": "36f06b04bcd6a04cc5b48590e6f64b73e97a9bd8ef0f5d6d06ba13723dfe7dd9"
+    },
+    {
+      "file": "assets/voice/p06-15-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 25816,
+      "sha256": "c3fe1da8aaadd9b63605b74ed1f1c26865e7872b7ed0e3516a7ae6a39efef239"
+    },
+    {
+      "file": "assets/voice/p06-16-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 105164,
+      "sha256": "a2c2a135ce82810a4c0a0491a2539e21cd524c8959a6ab462c74d3a0f462b7ee"
+    },
+    {
+      "file": "assets/voice/p06-16-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61071,
+      "sha256": "3d23a9bd81f3b1305c946e0040c2cf18d758ca9fd6bb6971df4761305568698c"
+    },
+    {
+      "file": "assets/voice/p06-17-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 21314,
+      "sha256": "f5ba42fe7b09c9f0cd67a0b10fd9abb9e4f9d37be3ab9ab2a8b09f28b3d08289"
+    },
+    {
+      "file": "assets/voice/p06-18-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 72788,
+      "sha256": "3e54fc4ed57623ef7100b7d67830144c0cd416c005c48d65b464a30f73b337b2"
+    },
+    {
+      "file": "assets/voice/p06-18-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 54946,
+      "sha256": "a680a0d46788dd7a79d9dce4f804150575b5c1a525cad287170e04657b50f7f9"
+    },
+    {
+      "file": "assets/voice/p06-19-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 23606,
+      "sha256": "faf710c0aed788f82e603001817bab7af89a0cd50e6cc4cfb18388aaf555aacf"
+    },
+    {
+      "file": "assets/voice/p06-19-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 18232,
+      "sha256": "14c121e9ba47ee674170a2dd8c5779e491adcb6c9ed2909a14518f2c70c561cb"
+    },
+    {
+      "file": "assets/voice/p06-20-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 58546,
+      "sha256": "2d3ba9090a16a182f8eb85314e9b91fd0a8ff92a45af972dfa3240954fdce3c4"
+    },
+    {
+      "file": "assets/voice/p06-20-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 53440,
+      "sha256": "1db5dc2adb0cd6b8dfb08badb0a08dd172415fbff38feddc07646d7f17d0b52c"
+    },
+    {
+      "file": "assets/voice/p06-21-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 22241,
+      "sha256": "43326a7d926e85e9b1cf5c50b772548c3e18ab8abf24a8d2727d1012572e5704"
+    },
+    {
+      "file": "assets/voice/p06-22-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61306,
+      "sha256": "f33bbe1a712d648d609b2a40e7a5b53cec6e6fa244e5d3058ccdcf82a6827f4e"
+    },
+    {
+      "file": "assets/voice/p06-22-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 65375,
+      "sha256": "65af5b1b171c7ffe0087d1507ac052a14a829c9ec434dd8dba12122e79e6e550"
+    },
+    {
+      "file": "assets/voice/p06-23-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 48666,
+      "sha256": "d84fe30d0f2387be8bdd5f34341c770d24ba4882747dad680676e35d158478b9"
+    },
+    {
+      "file": "assets/voice/p06-23-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 60842,
+      "sha256": "027590c07dd57dc111fa5ae9d22b536acfecae1f13daf3c76b262cf6e0780607"
+    },
+    {
+      "file": "assets/voice/p06-24-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 104363,
+      "sha256": "2ab2b924926ba31e5224ff6ee3caabcff5feddfbe96a7e92cd0b0d6446148dec"
+    },
+    {
+      "file": "assets/voice/p06-24-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 73746,
+      "sha256": "d448c562fc1a153099b44ccc6abf45e7834ace18efc92ad87c3cb38072e06398"
+    },
+    {
+      "file": "assets/voice/p06-25-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 44178,
+      "sha256": "23e7b10368a0519ccd80f0e4ec8e4fcd7b25a88b1c63be2b1df4cce1ce50efa0"
+    },
+    {
+      "file": "assets/voice/p06-25-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 51828,
+      "sha256": "bac321e4e4359eccdca21d910170117761185e0ba504002af241c4060bf9fe6f"
+    },
+    {
+      "file": "assets/voice/p07-01-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 32256,
+      "sha256": "c638f1b4ceb61cc70b61ddcfc5646eca46a1cf61869f4e3921743de70f24798d"
+    },
+    {
+      "file": "assets/voice/p07-01-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 17070,
+      "sha256": "3de2f4d13cf7fc97db529a260ada9242b06e6088a9a18217ad4d9f8c8f8ea9a2"
+    },
+    {
+      "file": "assets/voice/p07-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 70745,
+      "sha256": "6053e8b7625a8c1c2dd24338250787f18068952bd11821b12f75d37feb6dd9f8"
+    },
+    {
+      "file": "assets/voice/p07-02-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 62077,
+      "sha256": "19e7e50dd8cc447108ca68a4e684402cb413fa28db42db15da7e1ea934beffc9"
+    },
+    {
+      "file": "assets/voice/p07-03-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 116066,
+      "sha256": "e099a8b6e31465db6f78fcfd8b2f3c6a3acf4b49f38d60c16da604566bef24a1"
+    },
+    {
+      "file": "assets/voice/p07-03-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 98863,
+      "sha256": "6ba2e2f8c4ac08f6956137dce6847556d7563457260d42954de42780a9b87142"
+    },
+    {
+      "file": "assets/voice/p07-04-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 69031,
+      "sha256": "c6e9c8564cbbbcc6fe1d78dd3ea580ee63b0ff76d9412fc627a68e7c57037063"
+    },
+    {
+      "file": "assets/voice/p07-04-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 56931,
+      "sha256": "8db17c38fa36cc79d56be87caffc5c8869484c6dc8d36db7938fc6a14c8f94fd"
+    },
+    {
+      "file": "assets/voice/p07-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 41194,
+      "sha256": "33de9051f13ba3bcb7c7f8f4b8706cd115cf36a48b22783c73f67ce256757df1"
+    },
+    {
+      "file": "assets/voice/p07-06-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 69721,
+      "sha256": "d5981ff058848eea575b330b5142e5a0ee76790b6d9027d32897e0b6cf53970d"
+    },
+    {
+      "file": "assets/voice/p07-06-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 103844,
+      "sha256": "36307ab4df7eb62851ec35e3135ac163521e92e178034a42854f10c5bf858082"
+    },
+    {
+      "file": "assets/voice/p07-07-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 38537,
+      "sha256": "5a5158cf252aba214fe747b8ffe82bd326ec835221789e3774bf7e6001c8148d"
+    },
+    {
+      "file": "assets/voice/p07-07-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 77929,
+      "sha256": "f2bb1bf753bcf3bce7da633d6f3d7810305c0018b558299f459165044f54fd70"
+    },
+    {
+      "file": "assets/voice/p07-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 60939,
+      "sha256": "22612998808d90528be27826ad2b0184de6614af4c2342c6cb8c2d5311ac9c82"
+    },
+    {
+      "file": "assets/voice/p07-08-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 42929,
+      "sha256": "bf25694b7c981898625b18d27dabcd5ec559ed96bbc16fde100b9372dae73246"
+    },
+    {
+      "file": "assets/voice/p07-09-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 116506,
+      "sha256": "db4ddfa4bb93ed57ae436a04c75a9c8ae53d9863f48ac98e558e764f7ed90559"
+    },
+    {
+      "file": "assets/voice/p07-09-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 105574,
+      "sha256": "1d9e2d081fdcd372f962f6309a9c74855db78d3bcbfda90dcd156361961fa910"
+    },
+    {
+      "file": "assets/voice/p07-12-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 19834,
+      "sha256": "28490c66472c52040fd41377886d03b0c86c8226f8045bb91cf473f84793f4ee"
+    },
+    {
+      "file": "assets/voice/p07-13-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 53357,
+      "sha256": "faececb0cf70653b7e38f0e9bd4ff1dd0068fab51ba6d906f72d4700b85d6bf9"
+    },
+    {
+      "file": "assets/voice/p07-13-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 16678,
+      "sha256": "4de8d04ef53fce299240ff1c67ed43b6a270df7e8abf0da9848fdf1e2c30006a"
+    },
+    {
+      "file": "assets/voice/p07-13-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 10465,
+      "sha256": "2d70d6c0ba5ef8973e523f5a72c2ab8c306204f7aaa3cc005942aedae9cd7888"
+    },
+    {
+      "file": "assets/voice/p07-14-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 78972,
+      "sha256": "e2585c30c6fe8941b9233bb4ad160c76f63fd4d6f4dd3439d4902aad4b872a3a"
+    },
+    {
+      "file": "assets/voice/p07-14-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 67572,
+      "sha256": "bab6e6f9ad54e1cbe0fbc4fff31f65345a4c82a9d2480691bc14fe08e65c6eec"
+    },
+    {
+      "file": "assets/voice/p07-15-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 56892,
+      "sha256": "0ee40824cae3824558542683946bcf8b32ad49e79c6cb9ec251ce49324782777"
+    },
+    {
+      "file": "assets/voice/p07-16-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 104385,
+      "sha256": "b158d6a287a99101453cc59d3dfdb1cb73bc324bcbd8dbf38fb08d13c122a2c0"
+    },
+    {
+      "file": "assets/voice/p07-16-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 95958,
+      "sha256": "4cd16f9e8d96e9a2e70963222c30bc6ba3550c870544fffca6d3f8827cd9c7b7"
+    },
+    {
+      "file": "assets/voice/p07-17-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 15930,
+      "sha256": "6104b54bef4bd38edb7e2744a1e3ef99e621f708b8f18c429fa12b8c7be6cdad"
+    },
+    {
+      "file": "assets/voice/p07-17-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 46550,
+      "sha256": "9d5d18db460c5695e0fc817d60ed347a2de5d5c3f1371790ff6eaab30c151cfe"
+    },
+    {
+      "file": "assets/voice/p07-18-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 81300,
+      "sha256": "cd458a54f137f4150a2298580d074d26296da435fa6c3a7feb5c48bcf86a6978"
+    },
+    {
+      "file": "assets/voice/p07-19-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 97332,
+      "sha256": "ffaaac2b5b56ca7b091249e0755a98ef21844b1b0da7019575450e90ff4139d2"
+    },
+    {
+      "file": "assets/voice/p07-20-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 71002,
+      "sha256": "dd36570ffd567dfb955f7e15e3324f6f44427d50de01f182564a3db44d7b44e0"
+    },
+    {
+      "file": "assets/voice/p07-21-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 100347,
+      "sha256": "c9bfe4076da3170264cd1157797b416af92d10b1af683cb1f525338722d2c265"
+    },
+    {
+      "file": "assets/voice/p07-21-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61967,
+      "sha256": "3b30cb4a70cea5ddf551291526279a8cf78d81e1cc62b1c783d7133e35369566"
+    },
+    {
+      "file": "assets/voice/p07-22-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 22885,
+      "sha256": "275db856daad67b9840a747f40d4d6d3dd13d3b78c1acd46f142e6de83ab76cf"
+    },
+    {
+      "file": "assets/voice/p07-24-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 61253,
+      "sha256": "46c3a676d59b29bd876b990e674e2bce187cfd42351e04f6dccde64bdbe9adef"
+    },
+    {
+      "file": "assets/voice/p07-24-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 51439,
+      "sha256": "95f5567e95ff8d648d91140189286cd932a57ddc71dbbb48a20507236f9a5910"
+    },
+    {
+      "file": "assets/voice/p07-26-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 67785,
+      "sha256": "9b27cb4f46f6a2c121fb9afc43142b12c731968406bb59897ffc47d94b11533a"
+    },
+    {
+      "file": "assets/voice/p07-27-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 83339,
+      "sha256": "8699898233db5306419015ce2cb79d97ba1d84be2874d68b095b69bd3ced2a62"
+    },
+    {
+      "file": "assets/voice/p07-28-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 50873,
+      "sha256": "10998d6810fc9859e0ef4f6b5b916a6f2ffe64bbe2237b435cc6d0863d773e1f"
+    },
+    {
+      "file": "assets/voice/p08-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 49263,
+      "sha256": "a4202dfc6ad12d489fb2fb8bf21cbb119917fbd70774c2c1b79a6e8945db0cb6"
+    },
+    {
+      "file": "assets/voice/p08-02-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 31957,
+      "sha256": "2a8ec668ccf8265b2682acf150511326cc7b979830b12b4091d5d4fafc4c8548"
+    },
+    {
+      "file": "assets/voice/p08-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 30637,
+      "sha256": "0a04145d2e78fe967e89a7740bdf1abd3fb3fca23b0584156b160423be17482b"
+    },
+    {
+      "file": "assets/voice/p08-05-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 63305,
+      "sha256": "4b9d643f70a9503c997c97d21e30b874a529b0d0bbf3339769963dcd2a9a9647"
+    },
+    {
+      "file": "assets/voice/p08-05-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 31499,
+      "sha256": "595bfccc0c86c1455ea2fe28e1b0293a3733420e3275585a844158b223d4ae4f"
+    },
+    {
+      "file": "assets/voice/p08-06-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 35294,
+      "sha256": "30828f5d8a553c069aeb2f6e96e15f18e630dd09faa0bf079608753bc5c88953"
+    },
+    {
+      "file": "assets/voice/p08-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 125909,
+      "sha256": "41f83af16acc9a88518db5165f33de6a3129ed78a7026c45338078bac8d3196c"
+    },
+    {
+      "file": "assets/voice/p08-09-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 84555,
+      "sha256": "68f87eebbc7c50abe4a3dcb662279b99f711cd3cf40165feef81aa2d97c41586"
+    },
+    {
+      "file": "assets/voice/p08-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 79365,
+      "sha256": "1f860cb608a6eeda2cb8f00672346f32e516669bd78db0c6e1bc658e900d7cea"
+    },
+    {
+      "file": "assets/voice/p08-16-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 35059,
+      "sha256": "47cd583fdaad23e12a438be62988134f2612834b275abddde08a713f40797dc3"
+    },
+    {
+      "file": "assets/voice/p08-17-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 98021,
+      "sha256": "02e73809c2011600ca928bc91719931972f92495a7c1a6c929662bc4ec80ac48"
+    },
+    {
+      "file": "assets/voice/p08-18-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 76867,
+      "sha256": "71853fbc63693e4b940cdda4976b2762b8523b08571cb80938e3fccddb77c4ea"
+    },
+    {
+      "file": "assets/voice/p08-18-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 79366,
+      "sha256": "f0567d484b36b2ca5005018c5dc8d25edfd275436c1589571c8eed72f28eca2d"
+    },
+    {
+      "file": "assets/voice/p08-18-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 73547,
+      "sha256": "9c6fdf77c3f74b0eb37727f730463271af20fc0204998ed8ad3d6730a4705789"
+    },
+    {
+      "file": "assets/voice/p08-19-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 38816,
+      "sha256": "674cb3b6da2b516ee031766914da5eb37d151b8c25166c3e012cd7522abe57ae"
+    },
+    {
+      "file": "assets/voice/p08-20-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 77398,
+      "sha256": "3a0946b4d88210cfc321b08045f200fa2bb121e549c85fc3705415ed306c9c8e"
+    },
+    {
+      "file": "assets/voice/p08-20-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 77316,
+      "sha256": "be2cf9944896f30c080042ca3e822e7fe4ce174c677413ae161b164d8fd06132"
+    },
+    {
+      "file": "assets/voice/p08-20-03.m4a",
+      "mime": "audio/mp4",
+      "bytes": 71643,
+      "sha256": "a5584170d591ec89297577990425deac233ff9c9043b14a2293125a784dffe63"
+    },
+    {
+      "file": "assets/voice/p08-21-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 137977,
+      "sha256": "2c7b998a0c1b0165ce0c10b9608df15fb8ea7c0cde00b17677b8969c6a1eb12a"
+    },
+    {
+      "file": "assets/voice/p08-21-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 87732,
+      "sha256": "aa07061ad9607f4d6f6cd42efbdc60df443d066706038d6d1a4801519968e25f"
+    },
+    {
+      "file": "assets/voice/p08-23-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 58736,
+      "sha256": "863953b02df7c14df30c6a64a1118e83162750f17194f0049a28513644e700ad"
+    },
+    {
+      "file": "assets/voice/p08-23-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 143955,
+      "sha256": "dc9eb3482ce597f9b40d5e40b561a12aca60b66c48b65149df442515a69e7a72"
+    },
+    {
+      "file": "assets/voice/p08-24-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 79277,
+      "sha256": "8f0fd4606ba599a6930dd8df0bcaa9111eeb7b29e214d1d22a39f9dd34c48b7a"
+    },
+    {
+      "file": "assets/voice/p08-25-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 68784,
+      "sha256": "8ca10909136fb6634684a5a8fa1066c941940b600a7ef2dd84f542e41459ba88"
+    },
+    {
+      "file": "assets/voice/p08-25-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 67656,
+      "sha256": "a41c692e1d426d023689b3ebc9551e37074374bb22baebb7506640c13ba743a6"
+    },
+    {
+      "file": "assets/voice/p08-26-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 93215,
+      "sha256": "152415ce1aea200d3be35fee73b95b55311c617771cc30a42bf8e7663f8e77fe"
+    },
+    {
+      "file": "assets/voice/p08-26-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 80673,
+      "sha256": "3d1807ffad0fca55af33450e9e05c1842f47c060b0098252be509e3c0c3585a5"
+    },
+    {
+      "file": "assets/voice/p08-27-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 52550,
+      "sha256": "bf70ae6e91ea39e6bf2e429a32f7d76989f825a22ad6f9cb427728d968c37519"
+    },
+    {
+      "file": "assets/voice/p08-27-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 120524,
+      "sha256": "c264746b68dc93e94648ce1ea6e652b7eb2b13e2e053f1014dac86e5354f9c93"
+    },
+    {
+      "file": "assets/voice/p08-28-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 63939,
+      "sha256": "aa6a685b4b7bda3a0b51f23cccec48133c541755c2a2c006c5236cb07d574b17"
+    },
+    {
+      "file": "assets/voice/p09-06-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 42273,
+      "sha256": "cbd1ae112006dbee2c1102378ba1a6735587c06b5257dc2b205ba31b49272ecf"
+    },
+    {
+      "file": "assets/voice/p09-08-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 70514,
+      "sha256": "d27a09fce8d600d2a73e01c7163a1fa24b571667b740dca1d9d9bd92207605be"
+    },
+    {
+      "file": "assets/voice/p09-08-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 35270,
+      "sha256": "184bc45327edacfc38258d44fe2464c0d2d14cd6159870c44a82bf94d838f5b5"
+    },
+    {
+      "file": "assets/voice/p09-10-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 33662,
+      "sha256": "359b675f0eb038c1920fe3bb3afb9581c16a96fec18eca8141584cc835be79ae"
+    },
+    {
+      "file": "assets/voice/p09-11-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 120746,
+      "sha256": "c819b405692ee63718651a2b6401e5b63f580cdbe400d074c590a1574a9bbcc0"
+    },
+    {
+      "file": "assets/voice/p09-12-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 57049,
+      "sha256": "feeb82e804011e60cdabd74a27a26429ac7713e9e54a7563a929fdbbbea0524d"
+    },
+    {
+      "file": "assets/voice/p09-13-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 107332,
+      "sha256": "ea5884e5d43c1edf43603993168a3bf9155ef50277403b738610a817bad3f660"
+    },
+    {
+      "file": "assets/voice/p09-13-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 16880,
+      "sha256": "3b7060bb54a35a3ac4ac5e400360c84d2568f8c38af5e2f1c41b6aa6fc98ee25"
+    },
+    {
+      "file": "assets/voice/p09-19-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 24319,
+      "sha256": "8ba09b6f57544d6f1785f608ccbb821097f5ae71e70a4debdaff45eeb2ddd0e2"
+    },
+    {
+      "file": "assets/voice/p09-19-02.m4a",
+      "mime": "audio/mp4",
+      "bytes": 69898,
+      "sha256": "9ff0bda5118ca842d1ae62a254f030078c7a2ead99cc165bdd4e851569d6b61d"
+    },
+    {
+      "file": "assets/voice/p10-01-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 15910,
+      "sha256": "cc01bfed72789d715fe578bd44d24da7e8e0a244834c72c4c36baacb4548b58d"
+    },
+    {
+      "file": "assets/voice/p10-02-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 74003,
+      "sha256": "f3bb1c26c7c8370eeaab0df1139e58e74e3ede5a9467ef8e09e04f52c52e167f"
+    },
+    {
+      "file": "assets/voice/p10-05-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 34877,
+      "sha256": "836d12864185ec956cb75d775ff07420c59c07a1a46f1e29e398dfb6bbbb8178"
+    },
+    {
+      "file": "assets/voice/p10-07-01.m4a",
+      "mime": "audio/mp4",
+      "bytes": 73586,
+      "sha256": "0b45c9c9660f4e370c906095323ca7d7eeb171d4999b40b300bb261981114e78"
+    },
+    {
+      "file": "assets/voice/intro-whale.m4a",
+      "mime": "audio/mp4",
+      "bytes": 33303,
+      "sha256": "2781f8178acc0d1f5d8b7ad992b78a69a4ec9a96ae3cebae2cd77bad26a40a82"
+    },
+    {
+      "file": "assets/voice/intro-claude.m4a",
+      "mime": "audio/mp4",
+      "bytes": 46426,
+      "sha256": "285720d38ef4dcb5bcf790dc45d49a111e619fc7b1998cd665f23b4de60a4865"
+    },
+    {
+      "file": "assets/panels/p01-01.webp",
+      "mime": "image/webp",
+      "bytes": 214198,
+      "sha256": "a03b4d6c5249eaa4f6780d6c805fd5cce02a0f3feb27ff808b50f1a458c266aa"
+    },
+    {
+      "file": "assets/panels/p01-03.webp",
+      "mime": "image/webp",
+      "bytes": 138164,
+      "sha256": "08a2a0e1837142a58222b617e76493137a27bc6477e52b3f53c3c13d20a14f92"
+    },
+    {
+      "file": "assets/panels/p01-04.webp",
+      "mime": "image/webp",
+      "bytes": 99572,
+      "sha256": "204938dacb27c673d8890699b675e5c854827f33d901161146ac1fe758a013e1"
+    },
+    {
+      "file": "assets/panels/p01-12.webp",
+      "mime": "image/webp",
+      "bytes": 109134,
+      "sha256": "e9c5dcfcd6ba15d47ad249316c6bf1a52c718c2b3dbb307f9ba4e12a438deee0"
+    },
+    {
+      "file": "assets/panels/p01-16.webp",
+      "mime": "image/webp",
+      "bytes": 83782,
+      "sha256": "9b698d40a54d1e5ed1d5f2776db488c743ed5f2fe2651a7102ac0274ed146b06"
+    },
+    {
+      "file": "assets/panels/p01-17.webp",
+      "mime": "image/webp",
+      "bytes": 192248,
+      "sha256": "ba562c672f5fa9b5c34cebb89a4bb9fb7509d1226e282c83fa2023616d97deaa"
+    },
+    {
+      "file": "assets/panels/p02-03.webp",
+      "mime": "image/webp",
+      "bytes": 55360,
+      "sha256": "83a188e0c3cc92c5d4fdfc4a94986ab2f3ffa771ab15b95b6733e43ef7f35df3"
+    },
+    {
+      "file": "assets/panels/p02-06.webp",
+      "mime": "image/webp",
+      "bytes": 110294,
+      "sha256": "ef1da79e9066befe818bbc10bc0c50a4837d705e74e7c612ce9b3e99469e6df2"
+    },
+    {
+      "file": "assets/panels/p02-12.webp",
+      "mime": "image/webp",
+      "bytes": 141144,
+      "sha256": "7a87b16c791ef2e75599de102fcf6c530f0ff7b9dd11b3b1eb3b5138373943f9"
+    },
+    {
+      "file": "assets/panels/p02-13.webp",
+      "mime": "image/webp",
+      "bytes": 115400,
+      "sha256": "8a420eefc11bc2e9ca18f60c861bfe59d5be02ea7dfe490cfc3db42a745e4412"
+    },
+    {
+      "file": "assets/panels/p03-01.webp",
+      "mime": "image/webp",
+      "bytes": 135188,
+      "sha256": "8e547b1a4b9d144b55cf2ac68ce73f114a22fdf392030dcf245d93ae901be782"
+    },
+    {
+      "file": "assets/panels/p03-03.webp",
+      "mime": "image/webp",
+      "bytes": 95886,
+      "sha256": "f4364d09d37b437cd8fdd4847f62812ae8a08423db63efd65990c02abf5167e7"
+    },
+    {
+      "file": "assets/panels/p03-04.webp",
+      "mime": "image/webp",
+      "bytes": 59120,
+      "sha256": "6e89ce961638fb39e84ee382b8562e0227692dc6501a7bb9710d811eed0f08ae"
+    },
+    {
+      "file": "assets/panels/p03-05.webp",
+      "mime": "image/webp",
+      "bytes": 76404,
+      "sha256": "ac21b4b32fffcc5ee9d41c81a0653fcb2e5d36cbb6ee72d1d18d3d37bdde12ac"
+    },
+    {
+      "file": "assets/panels/p03-06.webp",
+      "mime": "image/webp",
+      "bytes": 94614,
+      "sha256": "0939a24ce3b26201654bdf30a0b597c5479cf92789da86b7b4c28d7ce54ff0a9"
+    },
+    {
+      "file": "assets/panels/p03-07.webp",
+      "mime": "image/webp",
+      "bytes": 83772,
+      "sha256": "95c187f45215ca7c0144b0747620c223bcfd3af789266ab7b5f76d37c0ad645a"
+    },
+    {
+      "file": "assets/panels/p03-08.webp",
+      "mime": "image/webp",
+      "bytes": 61076,
+      "sha256": "039633bca66103c5288a8235ad90c00ddbce290d8ee0956ecbb57e6949834c60"
+    },
+    {
+      "file": "assets/panels/p03-09.webp",
+      "mime": "image/webp",
+      "bytes": 95430,
+      "sha256": "024b1984b5babcc1bd88cd500ba6dc41a67b9d9202824f61d8338bd5648cf23e"
+    },
+    {
+      "file": "assets/panels/p03-10.webp",
+      "mime": "image/webp",
+      "bytes": 80520,
+      "sha256": "d013fd12c63746448d3fbd924b5dfae42bb4899cddd7105a36d22286aeee21dc"
+    },
+    {
+      "file": "assets/panels/p03-13.webp",
+      "mime": "image/webp",
+      "bytes": 150134,
+      "sha256": "37c16d8ac09a4127cdcfeecb3fcd92c542f11ce7968325c1193ac47ba1c230d7"
+    },
+    {
+      "file": "assets/panels/p04-15.webp",
+      "mime": "image/webp",
+      "bytes": 80812,
+      "sha256": "eb46b9a932912b249dbdf76e5aebe07a2da72d8613d4ac7f581e7d9ff9217eba"
+    },
+    {
+      "file": "assets/panels/p04-16.webp",
+      "mime": "image/webp",
+      "bytes": 50352,
+      "sha256": "d39386c40db5433abdfe5d7da11e89202b370b31fb18d66e4758a1fd164fe514"
+    },
+    {
+      "file": "assets/panels/p04-17.webp",
+      "mime": "image/webp",
+      "bytes": 53184,
+      "sha256": "d10d43028a14ca01c83b88119b6756f88e54affc1dde92c1ec6e5a684755d8d5"
+    },
+    {
+      "file": "assets/panels/p04-18.webp",
+      "mime": "image/webp",
+      "bytes": 211254,
+      "sha256": "dd5355fa578caf8ce584df5d064332456bb528b1c7bbd7482a6562e4343e360c"
+    },
+    {
+      "file": "assets/panels/p04-19.webp",
+      "mime": "image/webp",
+      "bytes": 156516,
+      "sha256": "b1cb846da0f8518f992086342c77a7349c9a73fcc5c6134d1622be26bdf5d6ae"
+    },
+    {
+      "file": "assets/panels/p04-21.webp",
+      "mime": "image/webp",
+      "bytes": 52264,
+      "sha256": "2af57c674db5f75854a06ad2ca9ff68253b4e5c3a7b60f6ad39a2797a291ed56"
+    },
+    {
+      "file": "assets/panels/p05-06.webp",
+      "mime": "image/webp",
+      "bytes": 64040,
+      "sha256": "099f55a9a2f883bd9ef297bbdfaac53ae4f970b2e72b845eefec1884d8916f94"
+    },
+    {
+      "file": "assets/panels/p05-13.webp",
+      "mime": "image/webp",
+      "bytes": 68458,
+      "sha256": "12e2e59fca2fe60f4d2e3649832bcd796643dcc52e43b861f80eee6f07bc2394"
+    },
+    {
+      "file": "assets/panels/p06-26.webp",
+      "mime": "image/webp",
+      "bytes": 66818,
+      "sha256": "c03a1e1397587d154251e03e46416ba9698e39d6f2198f2629dfc955b12b8e16"
+    },
+    {
+      "file": "assets/panels/p07-11.webp",
+      "mime": "image/webp",
+      "bytes": 42288,
+      "sha256": "db4dc41dcebb0a1dd83a2e401c6a31e78fec5572303436b0818ef15a97999523"
+    },
+    {
+      "file": "assets/panels/p07-23.webp",
+      "mime": "image/webp",
+      "bytes": 56218,
+      "sha256": "0c64868ca5b6aa09db862d3489196f8b20d09cfd5a3cb553bfcb982b00a56c7a"
+    },
+    {
+      "file": "assets/panels/p07-25.webp",
+      "mime": "image/webp",
+      "bytes": 45624,
+      "sha256": "f64b4f647733f1649ff1270b4d94bd8cff19c3891b80131ee27785dc0650bd95"
+    },
+    {
+      "file": "assets/panels/p08-01.webp",
+      "mime": "image/webp",
+      "bytes": 55634,
+      "sha256": "51a53cc94e664c93a76ce9df68d201056bd6970ddbb3621d541320802e4ca767"
+    },
+    {
+      "file": "assets/panels/p08-03.webp",
+      "mime": "image/webp",
+      "bytes": 178558,
+      "sha256": "ad9f371352a9b839d08f5022fc04c61d6da879a9ff63a73a17391ac4822d7f7e"
+    },
+    {
+      "file": "assets/panels/p08-04.webp",
+      "mime": "image/webp",
+      "bytes": 60744,
+      "sha256": "9c428f91e2ee982a6dd40b6168df80ca6693eb9629f912cd24fc46933f4f143a"
+    },
+    {
+      "file": "assets/panels/p08-07.webp",
+      "mime": "image/webp",
+      "bytes": 41778,
+      "sha256": "1f0eb7f38c23a74494b66bb0311b4778961333643c4ca6ba8f29f5c327e941e6"
+    },
+    {
+      "file": "assets/panels/p08-10.webp",
+      "mime": "image/webp",
+      "bytes": 32438,
+      "sha256": "61f3ed4c85cdc9ee9b2bb98ee1e1e2ca16fbd2d13981b585e5d0375f0f0f5ca4"
+    },
+    {
+      "file": "assets/panels/p08-12.webp",
+      "mime": "image/webp",
+      "bytes": 59934,
+      "sha256": "a556bd4185045b2986c29e90678ea5830c8c14f298b4e3635c54bb79c561270d"
+    },
+    {
+      "file": "assets/panels/p08-13.webp",
+      "mime": "image/webp",
+      "bytes": 88734,
+      "sha256": "37eac9db95665c3fcaadd4e9352203b1fae7516f287c4712626c7fa96567239f"
+    },
+    {
+      "file": "assets/panels/p08-14.webp",
+      "mime": "image/webp",
+      "bytes": 88510,
+      "sha256": "3c7f3d22df24486ef1c71472d3e873262a7e7fa18756c365cb028cd01259814d"
+    },
+    {
+      "file": "assets/panels/p08-15.webp",
+      "mime": "image/webp",
+      "bytes": 104050,
+      "sha256": "f1396f85b726a94663b55ccd8203d8bfa46ad8812847f9ad98f71c5b7eb2e873"
+    },
+    {
+      "file": "assets/panels/p08-22.webp",
+      "mime": "image/webp",
+      "bytes": 191418,
+      "sha256": "74a92df08f5f55dca9ccc7e1d910df5fa7c2821e642b2cb45ab49bb9904492e5"
+    },
+    {
+      "file": "assets/panels/p09-02.webp",
+      "mime": "image/webp",
+      "bytes": 84846,
+      "sha256": "b685114bf4e06f385e3f3ec2724a7196a2d28fab0c849acff02514c2b7db9450"
+    },
+    {
+      "file": "assets/panels/p09-03.webp",
+      "mime": "image/webp",
+      "bytes": 78598,
+      "sha256": "b604dbb44a0b84139fc24d2c7b4c441b48f0f5018e45027510adfcee01245f34"
+    },
+    {
+      "file": "assets/panels/p09-05.webp",
+      "mime": "image/webp",
+      "bytes": 91652,
+      "sha256": "53dc056f9f05c322b39f9a4884c172cc13991103b45b61fa8b0d595fb0035940"
+    },
+    {
+      "file": "assets/panels/p09-07.webp",
+      "mime": "image/webp",
+      "bytes": 152302,
+      "sha256": "64ff5b5f8f977f06129180e7e143e959b2771c2c95639481572590c61ac6b3ee"
+    },
+    {
+      "file": "assets/panels/p09-09.webp",
+      "mime": "image/webp",
+      "bytes": 52540,
+      "sha256": "94c6ca3932ff02e64a7992acd341194bf7dcab31195c5c1862d1c59095900597"
+    },
+    {
+      "file": "assets/panels/p09-14.webp",
+      "mime": "image/webp",
+      "bytes": 94824,
+      "sha256": "f99eb8b3ef39559951107e4ee6fb07a560564ab19d8af612bafc6bde9ef5e523"
+    },
+    {
+      "file": "assets/panels/p09-16.webp",
+      "mime": "image/webp",
+      "bytes": 44198,
+      "sha256": "f8483b81fff9661f4da7ff7cc1c0ba2c60c6f3b1a517d0cfcc8c6bf0a3a73ce2"
+    },
+    {
+      "file": "assets/panels/p09-17.webp",
+      "mime": "image/webp",
+      "bytes": 80590,
+      "sha256": "663f0179c80864837a56eb8d4afec426a179c84e1b8ce99c0651fd7773157d34"
+    },
+    {
+      "file": "assets/panels/p09-18.webp",
+      "mime": "image/webp",
+      "bytes": 77546,
+      "sha256": "edb59eff4058daa1e9d0801bdd1f0cea19956ff20b75b33fec24d9e562c82155"
+    },
+    {
+      "file": "assets/panels/p09-20.webp",
+      "mime": "image/webp",
+      "bytes": 114060,
+      "sha256": "e8849a51117d11f69d6fc5e13ff4f0e8525e04fb4228d72c00a6c514f5d76c35"
+    },
+    {
+      "file": "assets/panels/p09-21.webp",
+      "mime": "image/webp",
+      "bytes": 111434,
+      "sha256": "ff879916cbf3285b556b703ea192f1f74df1406846c9a9e308a6c4dfbecca950"
+    },
+    {
+      "file": "assets/panels/p09-22.webp",
+      "mime": "image/webp",
+      "bytes": 78896,
+      "sha256": "c0b10b506ca1fb8ac4db550d303182e380b887521dd257444f038305502d5b54"
+    },
+    {
+      "file": "assets/panels/p09-23.webp",
+      "mime": "image/webp",
+      "bytes": 75904,
+      "sha256": "90091dffe37ad7d74fcd84ceb70fbfa6bbeae04640612d829a6477789c15a5f7"
+    },
+    {
+      "file": "assets/panels/p09-24.webp",
+      "mime": "image/webp",
+      "bytes": 68038,
+      "sha256": "f7a27b8753da38be66c538515678631325ca4592b64c822e8d6d9390473f7809"
+    },
+    {
+      "file": "assets/panels/p09-25.webp",
+      "mime": "image/webp",
+      "bytes": 70282,
+      "sha256": "a6b9d838ad3c8d28521be640940343a6b19ab5470e9a23182fb5f8bd6c1238de"
+    },
+    {
+      "file": "assets/panels/p09-26.webp",
+      "mime": "image/webp",
+      "bytes": 287806,
+      "sha256": "12f8092f31074e4d40a47690a52503e942593ecb4e79156b891219fba513afa6"
+    },
+    {
+      "file": "assets/panels/p09-27.webp",
+      "mime": "image/webp",
+      "bytes": 91680,
+      "sha256": "b6487e046b58aa96b8174274d6c31dc5ec5100d01a74c5d5e04e80aa894ed8e6"
+    },
+    {
+      "file": "assets/panels/p10-03.webp",
+      "mime": "image/webp",
+      "bytes": 49880,
+      "sha256": "1190a926048d60ea191dab1502cf846d80c2a45414e27d58a06a0c9f7bd4687f"
+    },
+    {
+      "file": "assets/music/hymn.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 4855797,
+      "sha256": "65a0b4ee666c26d72cb6faeaaf2215f9516924a9bdbf01008cd642cbad4ba125"
+    },
+    {
+      "file": "assets/music/dark.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 17595203,
+      "sha256": "fa5bfe904dd4902b9eb66d8df518a91adde41fb6d1687aefb5af1a2de7da28da"
+    },
+    {
+      "file": "assets/music/childhood.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 5486935,
+      "sha256": "7bc1a9bf1d57d1eb96dcfd9ead5d31371d378fa6c238fe7f59700cd6e5936460"
+    },
+    {
+      "file": "assets/music/sanctuary.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 9844159,
+      "sha256": "1119b63d91012466e5ff8486fa2f9ad036eab9ebaf2ebf7f2af2a23dc5769f3c"
+    }
+  ]
+}
