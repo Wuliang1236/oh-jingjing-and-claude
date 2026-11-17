@@ -6,7 +6,7 @@
 
 在本仓库的 [v1.0.6 Release](https://github.com/Wuliang1236/oh-jingjing-and-claude/releases/tag/v1.0.6) 下载：
 
-- `哦鲸鲸与克劳德_v1.0.6.zip`：用户指定的最终游玩原包，不改写内容与文件名。
+- `oh-jingjing-and-claude_v1.0.6.zip`：用户指定的最终游玩原包；GitHub下载名使用英文，本地原件仍名为`哦鲸鲸与克劳德_v1.0.6.zip`，ZIP内部字节完全不变。
 - `oh-jingjing-and-claude_v1.0.6_runtime-source-assets.zip`：从最终HTML拆出的全部运行代码、378项资源、重建脚本和原包说明；明确属于恢复工程。
 - `SHA256SUMS.txt`：附件SHA-256。原包SHA-256：`5b6f4a8e0177ef97782a10f5c0bb07609d0c7d956e49719ab0b24ade792d0d81`。
 
